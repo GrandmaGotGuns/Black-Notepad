@@ -1,25 +1,25 @@
-# blacknotepad
+# BlackNotepad
 
-## Project setup
-```
-npm install
-```
+BlackNotepad is a **no-nonsense productivity tool** designed for seamless note-taking. With **auto-save** and cross-device access, you can **pick up right where you left off**, anytime, anywhere.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🚀 Features
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- **Simple & Clean UI** – Focus on your notes, without distractions.
+- **Sign In** – Use **Google** or **Email** authentication for secure access.
+- **Auto-Save** – Never worry about losing your data; your notes save automatically.
+- **Cross-Device Sync** – Access your notes from any device effortlessly.
+- **Firebase & Cloud Storage** – Reliable and secure data storage.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 🔧 Tech Stack
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Black-Notepad
+- **Frontend:** React (or specify your frontend framework)
+- **Authentication:** Firebase Authentication
+- **Database:** Firebase Firestore
+- **Cloud Storage:** Firebase Storage
+
+## 📦 Installation
+
+Just go to 
+```bash
+https://blacknotepad.somendrasaini.com
+```
