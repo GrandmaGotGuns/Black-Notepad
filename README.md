@@ -12,7 +12,7 @@ BlackNotepad is a **no-nonsense productivity tool** designed for seamless note-t
 
 ## 🔧 Tech Stack
 
-- **Frontend:** React (or specify your frontend framework)
+- **Frontend:** Vue
 - **Authentication:** Firebase Authentication
 - **Database:** Firebase Firestore
 - **Cloud Storage:** Firebase Storage
@@ -20,6 +20,6 @@ BlackNotepad is a **no-nonsense productivity tool** designed for seamless note-t
 ## 📦 Installation
 
 Just go to 
-```bash
+```
 https://blacknotepad.somendrasaini.com
 ```
